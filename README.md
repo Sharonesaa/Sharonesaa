@@ -1,9 +1,5 @@
 # Sharon López
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/1234567/imagen.png" alt="Sharon López" width="150">
-</p>
-
 <h2 align="center">💻 Full Stack Developer | Community Manager</h2>
 
 ---
