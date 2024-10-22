@@ -1,16 +1,34 @@
-## Hi there 👋
+# 💻 Sharon López
 
-<!--
-**Sharonesaa/Sharonesaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🚀 Full Stack Developer con experiencia en pruebas manuales y automatizadas**, además de **🎯 Community Manager**. Me manejo bien con **JavaScript, TypeScript, NestJS, Express, React, Redux, Python, SQL, NoSQL, Jest, Jasmine**, y también utilizo herramientas como **Jira y Git**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Habilidades Destacadas
+
+- **Backend & Frontend:** JavaScript, TypeScript, NestJS, Express, React, Redux
+- **Bases de Datos:** SQL y NoSQL
+- **Pruebas:** Manuales y automatizadas con Jest y Jasmine
+- **Herramientas:** Jira y Git
+
+---
+
+### 📈 Marketing Digital & Estrategias
+
+Gracias a mi experiencia laboral y cursos profesionales, he desarrollado habilidades en **marketing digital**. Me encanta:
+- Crear estrategias para llegar a la audiencia objetivo 🎯
+- Gestionar campañas en redes sociales 📱
+- Analizar métricas para mejorar resultados 📊
+
+---
+
+### 🛠️ Soft Skills
+
+Me considero una persona **adaptable**, con habilidades para:
+- Resolver problemas 🔧
+- Tomar decisiones informadas 🤔
+- Comunicarme de manera **clara y efectiva** 🗣️
+
+---
+
+### 📚 **Nivel de Inglés:** Básico-Intermedio
