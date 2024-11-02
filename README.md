@@ -2,7 +2,7 @@
     <img src= "https://res.cloudinary.com/dyvlp19ui/image/upload/t_head/v1730516589/Presentación_proyecto_fin_de_grado_profesional_en_color_azul_r08szw.png" alt="Descripción de tu imagen" style=" max-width: 100%;"/>
 </a>
 
-# 💻 Sharon López
+<h1 align="center" class="heading-element" dir="auto">💻 Sharon López</h1>
 
 **🚀 Full Stack Developer con experiencia en pruebas manuales y automatizadas**, además de **🎯 Community Manager**. Me manejo bien con **JavaScript, TypeScript, NestJS, Express, React, Redux, Python, SQL, NoSQL, Jest, Jasmine**, y también utilizo herramientas como **Jira y Git**.
 
