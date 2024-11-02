@@ -105,14 +105,6 @@ Me considero una persona **adaptable**, con habilidades para:
 <h3 align="left">Estadísticas de GitHub:</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharonesaa&show_icons=true&theme=radical" alt="Estadísticas generales de GitHub"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharonesaa&theme=radical" alt="Gráfico de contribuciones de GitHub"/>
-</p>
-
-<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=sharonesaa&theme=radical&no-frame=true" alt="Logros de GitHub"/>
 </p>
 
@@ -120,4 +112,7 @@ Me considero una persona **adaptable**, con habilidades para:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharonesaa&theme=radical" alt="Racha de commits de GitHub"/>
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonesaa&layout=compact&theme=radical" alt="Estadísticas de lenguajes en GitHub"/>
+</p>
 
