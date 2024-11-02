@@ -1,5 +1,5 @@
 <a href="https://res.cloudinary.com/tu-cuenta/image/upload/v1234567890/tu-imagen.png" target="_blank" rel="noopener noreferrer">
-    <img src="https://res.cloudinary.com/dyvlp19ui/image/upload/v1730516589/Presentaci%C3%B3n_proyecto_fin_de_grado_profesional_en_color_azul_r08szw.png" alt="Descripción de tu imagen" style="width: 300px; height: 400px; max-width: 100%;"/>
+    <img src= "https://res.cloudinary.com/dyvlp19ui/image/upload/t_head/v1730516589/Presentación_proyecto_fin_de_grado_profesional_en_color_azul_r08szw.png" alt="Descripción de tu imagen" style="width: 300px; height: 400px; max-width: 100%;"/>
 </a>
 
 # 💻 Sharon López
